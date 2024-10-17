@@ -11,7 +11,8 @@ for j in range(0,n,1):
 print(b)
 a=0
 r=0
-au=0
+u=0
 for i in range(0,n,1):
       r += a[i]*b[i]
 print(r)
+s=2+3
