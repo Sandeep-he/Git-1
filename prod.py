@@ -10,8 +10,8 @@ for j in range(0,n,1):
       b.append(y)
 print(b)
 a=0
-r=0
-u=0
+er=0
+au=0
 for i in range(0,n,1):
       r += a[i]*b[i]
 print(r)
