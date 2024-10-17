@@ -1,4 +1,4 @@
-aa=[]
+a=[]
 b=[]
 n=int(input("Enter no. of elements : "))
 for i in range(0,n,1):
